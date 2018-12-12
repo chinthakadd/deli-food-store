@@ -15,22 +15,22 @@ This prototype is built, considering the following requirements in mind.
 ### Payments
 - As a customer, I should be able to view my currently registered payment methods - DONE
 - As a customer, I should be able to add new payment methods - DONE
-- As a customer, I should be able to use a registered payment method at the point of checkout
-- As a customer, I should be notified by an email or by SMS if a payment has been made
+- As a customer, I should be able to use a registered payment method at the point of checkout - DONE
+- As a customer, I should be notified by an email or by SMS if a payment has been made - PENDING
 
 
 ### Shopping Cart
 - As a customer, I should be able to view the items of shopping cart at any point - DONE
   the shopping cart should indicate how many items are there, individual prices as well as the 
-  total price.
+  total price. - DONE
 - As a customer, I should be able to add an item to the shopping cart - DONE
-- If a customer does not have total less than 30 USD in his shopping cart, he would not be able to checkout
+- If a customer does not have total less than 30 USD in his shopping cart, he would not be able to checkout - DONE
 
 ### Order
 - As a customer, I should be able to make the current shopping cart to an order - DONE
 - As a customer I should be able to pay and get an invoice that should include the invoice number, 
   discounts applied and total amount paid. - DONE
-- When the order is made, all the stocks must be updated to reflect the right number of orders
+- When the order is made, all the stocks must be updated to reflect the right number of orders - DONE
 
 
 # Pending Technical Work
