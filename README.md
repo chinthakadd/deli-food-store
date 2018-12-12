@@ -34,12 +34,6 @@ This prototype is built, considering the following requirements in mind.
   discounts applied and total amount paid. - DONE
 - When the order is made, all the stocks must be updated to reflect the right number of orders
 
-## Infrastructure Requirements
-
-- All the customer interactions must be modeled using REST
-- Shopping Cart information must be store in a H2 database
-- Customer directory is a file source available in the classpath
-
 
 # Pending Technical Work
 
