@@ -1,8 +1,6 @@
 # Deli Food Store - A POC on DDD and Hexagonal Architecture
 
-An attempt to model an Online Retail System following the principles of Hexagonal Architecture and Domain Driven Design.
-The following are some of the concepts that were adhered to while building this prototype.
-
+An attempt to model an Online Shopping System following the principles of Hexagonal Architecture and Domain Driven Design.
 This prototype is built, considering the following requirements in mind.
 
 ## Business Requirements
