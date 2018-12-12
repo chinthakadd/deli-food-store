@@ -46,3 +46,10 @@ This prototype is built, considering the following requirements in mind.
 - Convert Repository implementation to JPA with H2 
 - Write an exception framework mechanism. Will we carry the same exception from domain to controller? 
 
+
+# Implementation Details
+
+TODO: Write notes on how we got the Domain Objects to work with Spring Beans using Aspectj Load time Weaving concept.
+
+
+
